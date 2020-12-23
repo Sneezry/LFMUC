@@ -6,6 +6,8 @@ sed -i 's/b.Keybinding:SetText( keybind )/b.Keybinding:SetText( keybind ) if (i 
 rm -rf .git*
 cd ..
 echo "$1" > version.txt
+git config user.name Sneezry
+git config user.email lizhe@lizhe.org
 git add version.txt
 git commit -m "$1"
 git push

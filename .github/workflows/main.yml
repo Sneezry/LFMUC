@@ -30,7 +30,7 @@ jobs:
         run: echo "::set-output name=release::$(cat version.txt)"
         shell: bash
       - if: steps.latest.outputs.release != steps.current.outputs.release
-        run: ./release.sh
+        run: chmod +x release.sh && ./release.sh
         shell: bash
       - if: steps.latest.outputs.release != steps.current.outputs.release
         uses: papeloto/action-zip@v1

@@ -1,4 +1,5 @@
 release=$1
+echo $1 > version.txt
 sudo apt install zip
 git clone https://github.com/Hekili/hekili.git Hekili
 cd Hekili

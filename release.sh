@@ -1,5 +1,4 @@
 release=$1
-sudo apt install zip
 git clone https://github.com/Hekili/hekili.git Hekili
 cd Hekili
 git checkout $release

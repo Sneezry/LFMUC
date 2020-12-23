@@ -35,7 +35,7 @@ jobs:
       - if: steps.latest.outputs.release != steps.current.outputs.release
         uses: papeloto/action-zip@v1
         with:
-          files: Hekili/
+          files: hekili-origin/
           dest: Hekili.zip
       - id: create_release
         if: steps.latest.outputs.release != steps.current.outputs.release

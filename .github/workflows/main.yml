@@ -38,6 +38,8 @@ jobs:
           files: Hekili/
           dest: Hekili.zip
       - uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ steps.current.outputs.release }}
           release_name: Release ${{ steps.current.outputs.release }}
@@ -45,6 +47,8 @@ jobs:
           draft: false
           prerelease: false
       - uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }} 
           asset_path: ./Hekili.zip

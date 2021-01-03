@@ -22,6 +22,7 @@ jobs:
         uses: pozetroninc/github-action-get-latest-release@master
         with:
           repository: Hekili/hekili
+          excludes: prerelease, draft
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 

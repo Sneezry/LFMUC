@@ -1,3 +1,5 @@
-body {
-  background: black!important;
+body,
+#titlebar::before {
+  background-image: url(https://image.sneezry.cn/20jqkguvix2q.png)!important;
+  background-color: #2c0a4e!important;
 }

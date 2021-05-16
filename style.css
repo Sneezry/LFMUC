@@ -3,3 +3,11 @@ body,
   background-image: url(https://image.sneezry.cn/n01qwfz2i1hx.jpg)!important;
   background-color: #0c0304!important;
 }
+
+#online {
+  background: linear-gradient(#ad2322, #720a09)!important;
+}
+
+#online:hover {
+  background: linear-gradient(#b53938, #802221)!important;
+}

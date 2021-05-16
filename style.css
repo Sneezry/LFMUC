@@ -11,3 +11,8 @@ body,
 #online:hover {
   background: linear-gradient(#b53938, #802221)!important;
 }
+
+#logo {
+  left: auto!important;
+  right: 30px!important;
+}

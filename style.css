@@ -4,14 +4,26 @@ body,
   background-color: #1a302e!important;
 }
 
+body {
+  background-position: center -90px;
+}
+
+#titlebar::before {
+  background-position: center -80px;
+}
+
 #online {
-  background: linear-gradient(#3c252b, #2b1015);
+  background: linear-gradient(#241a1c, #1d191a);
   color: #64843b;
+  box-shadow: 0 0 3px 3px rgba(107, 110, 70, 0.35),
+              inset 0 0 1px rgba(107, 110, 70, 0.35);
 }
 
 #online:hover {
-  background: linear-gradient(#342026, #250e12);
+  background: linear-gradient(#1d1517, #151213);
   color: #9ee355;
   text-shadow: 0 0 10px rgba(124, 158, 79, 0.5),
                0 0 20px rgba(103, 113, 89, 0.35);
+  box-shadow: 0 0 3px 3px rgba(107, 110, 70, 0.75),
+              inset 0 0 1px rgba(107, 110, 70, 0.75);
 }

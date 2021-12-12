@@ -1,5 +1,17 @@
 body,
 #titlebar::before {
-  background-image: url(https://image.sneezry.cn/vyw95tczrlhx.jpg)!important;
-  background-color: #1c0d20!important;
+  background-image: url(https://image.sneezry.cn/z2iqy4ty4db0.jpg)!important;
+  background-color: #b7d1ea!important;
+}
+
+#online {
+  background: linear-gradient(#3c252b, #2b1015);
+  color: #64843b;
+}
+
+#online:hover {
+  background: linear-gradient(#342026, #250e12);
+  color: #9ee355;
+  text-shadow: 0 0 10px rgba(124, 158, 79, 0.5),
+               0 0 20px rgba(103, 113, 89, 0.35);
 }

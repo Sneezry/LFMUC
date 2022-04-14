@@ -1,4 +1,10 @@
 [
-  65387,
-  3358
+  {
+    "id": 65387,
+    "name": "WeakAuras"
+  },
+  {
+    "id": 3358,
+    "name": "DBM-Shadowlands"
+  }
 ]

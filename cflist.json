@@ -22,5 +22,9 @@
   {
     "id": 298827,
     "name": "WorldBossTimers"
+  },
+  {
+    "id": 382165,
+    "name": "_DebugLog"
   }
 ]

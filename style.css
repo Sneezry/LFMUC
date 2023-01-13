@@ -4,10 +4,99 @@ body,
   background-color: #4c271d!important;
 }
 
+/* 10 */
+/*
+body,
+#titlebar::before {
+  background-image: url(https://image.sneezry.cn/nzmyhfeu9nm3.png)!important;
+  background-color: #4f4144!important;
+}
+*/
+
+/* 9 */
+/*
+body,
+#titlebar::before {
+  background-image: url(https://image.sneezry.cn/z4rcbde76i85.png)!important;
+  background-color: #1f2326!important;
+}
+*/
+
+/* 8 */
+/*
+body,
+#titlebar::before {
+  background-image: url(https://image.sneezry.cn/b9w40t1351vl.png)!important;
+  background-color: #411814!important;
+}
+*/
+
+/* 7 */
+/*
+body,
+#titlebar::before {
+  background-image: url(https://image.sneezry.cn/5yc6a2zadc2w.png)!important;
+  background-color: #331e43!important;
+}
+*/
+
+/* 6 */
+/*
+body,
+#titlebar::before {
+  background-image: url(https://image.sneezry.cn/ns0qkd4zc4s1.png)!important;
+  background-color: #0d1016!important;
+}
+*/
+
+/* 5 */
+/*
+body,
+#titlebar::before {
+  background-image: url(https://image.sneezry.cn/lur8e8511m8t.png)!important;
+  background-color: #2a0f38!important;
+}
+*/
+
+/* 4 */
+/*
+body,
+#titlebar::before {
+  background-image: url(https://image.sneezry.cn/9mwoyzzhgyy9.png)!important;
+  background-color: #212a1e!important;
+}
+*/
+
+/* 3 */
+/*
+body,
+#titlebar::before {
+  background-image: url(https://image.sneezry.cn/wuqcwqcajz3m.png)!important;
+  background-color: #17323b!important;
+}
+*/
+
+/* 2 */
+/*
+body,
+#titlebar::before {
+  background-image: url(https://image.sneezry.cn/wo6s5a1qe9m7.png)!important;
+  background-color: #240f0f!important;
+}
+*/
+
+/* 1 */
+/*
+body,
+#titlebar::before {
+  background-image: url(https://image.sneezry.cn/7ivczni922rg.png)!important;
+  background-color: #303435!important;
+}
+*/
+
 /* #online {
   background: linear-gradient(#45464b, #393a3e);
 }
-
 #online:hover {
   background: linear-gradient(#38383a, #282829);
 }

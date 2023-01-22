@@ -1,17 +1,8 @@
 body,
 #titlebar::before {
-  background-image: url(https://image.sneezry.cn/wo6s5a1qe9m7.png)!important;
-  background-color: #240f0f!important;
-}
-
-/* 1 */
-/*
-body,
-#titlebar::before {
   background-image: url(https://image.sneezry.cn/7ivczni922rg.png)!important;
   background-color: #303435!important;
 }
-*/
 
 /* #online {
   background: linear-gradient(#45464b, #393a3e);

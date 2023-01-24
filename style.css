@@ -4,6 +4,10 @@ body,
   background-color: #192221!important;
 }
 
+#lifamode {
+  display: none;
+}
+
 /* #online {
   background: linear-gradient(#45464b, #393a3e);
 }

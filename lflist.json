@@ -1,0 +1,22 @@
+[
+  {
+    "name": "LifaMosaic",
+    "version": "0.14",
+    "download": "https://lifa-mosaic.azurewebsites.net/addon/LifaMosaic.zip"
+  },
+  {
+    "name": "LifaCommander",
+    "version": "0.12",
+    "download": "https://lifa-mosaic.azurewebsites.net/addon/LifaCommander.zip"
+  },
+  {
+    "name": "LifaGuardian",
+    "version": "3.0",
+    "download": "https://lifa-mosaic.azurewebsites.net/addon/LifaGuardian.zip"
+  },
+  {
+    "name": "LifaHamster",
+    "version": "0.1",
+    "download": "https://lifa-mosaic.azurewebsites.net/addon/LifaHamster.zip"
+  }
+]

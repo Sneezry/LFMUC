@@ -1,17 +1,16 @@
 body,
 #titlebar::before {
-  background-image: url(https://image.lizhe.net/k76m80mazbzo.jpg)!important;
-  background-color: #192221!important;
+  background-image: url(https://image.sneezry.cn/ype6zbkgl8bh.jpg)!important;
+  background-color: #210c08!important;
 }
 
 #lifamode {
   display: none;
 }
 
-/* #online {
-  background: linear-gradient(#45464b, #393a3e);
+#online {
+  background: url(https://image.sneezry.cn/nzoe1exp19g5.jpg) top;
 }
 #online:hover {
-  background: linear-gradient(#38383a, #282829);
+  background: url(https://image.sneezry.cn/nzoe1exp19g5.jpg) bottom;
 }
- */

@@ -1,22 +1,27 @@
 [
   {
     "name": "LifaMosaic",
-    "version": "0.14",
+    "version": "0.15",
     "download": "https://lifa-mosaic.azurewebsites.net/addon/LifaMosaic.zip"
   },
   {
     "name": "LifaCommander",
-    "version": "0.12",
+    "version": "0.13",
     "download": "https://lifa-mosaic.azurewebsites.net/addon/LifaCommander.zip"
   },
   {
     "name": "LifaGuardian",
-    "version": "3.11",
+    "version": "3.12",
     "download": "https://lifa-mosaic.azurewebsites.net/addon/LifaGuardian.zip"
   },
   {
     "name": "LifaHamster",
-    "version": "0.1",
+    "version": "0.2",
     "download": "https://lifa-mosaic.azurewebsites.net/addon/LifaHamster.zip"
+  },
+  {
+    "name": "LifaAstrologer",
+    "version": "0.2",
+    "download": "https://lifa-mosaic.azurewebsites.net/addon/LifaAstrologer.zip"
   }
 ]

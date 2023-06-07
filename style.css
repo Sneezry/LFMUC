@@ -4,6 +4,14 @@ body,
   background-color: #0d0d10!important;
 }
 
+body {
+  background-position: center -10px;
+}
+
+#titlebar::before {
+  background-position: center 0;
+}
+
 /* #online {
   background: url(https://image.sneezry.cn/9jqm759aytk5.jpg) top;
 }

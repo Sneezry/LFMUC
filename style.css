@@ -1,7 +1,7 @@
 body,
 #titlebar::before {
-  background-image: url(https://image.sneezry.cn/o6rcg0hqjzbp.jpg)!important;
-  background-color: #000003!important;
+  background-image: url(https://image.sneezry.cn/a145jyx4thcy.jpg)!important;
+  background-color: #190702!important;
 }
 
 body {
@@ -11,10 +11,11 @@ body {
 #titlebar::before {
   background-position: center 0;
 }
-
+/*
 #online {
   background: url(https://image.sneezry.cn/k8tlgdx5m4bz.jpg) top;
 }
 #online:hover {
   background: url(https://image.sneezry.cn/k8tlgdx5m4bz.jpg) bottom;
 }
+*/

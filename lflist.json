@@ -6,7 +6,7 @@
   },
   {
     "name": "LifaGuardian",
-    "version": "4.3",
+    "version": "4.4",
     "download": "https://lifa-mosaic.azurewebsites.net/addon/LifaGuardian.zip"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "name": "LifaAstrologer",
-    "version": "0.37",
+    "version": "0.38",
     "download": "https://lifa-mosaic.azurewebsites.net/addon/LifaAstrologer.zip"
   }
 ]
